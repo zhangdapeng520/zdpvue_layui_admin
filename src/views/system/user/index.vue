@@ -1,5 +1,5 @@
 <template>
-  <lay-container fluid="true" class="user-box">
+  <lay-container fluid="true" class="user-box" style="padding: 10px; overflow: auto;">
     <lay-card>
       <lay-form style="margin-top: 10px">
         <lay-row>
